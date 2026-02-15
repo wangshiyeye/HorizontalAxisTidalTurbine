@@ -10,7 +10,7 @@ This model is made publicly available in the interest of **research transparency
 The authors have chosen to release this model **voluntarily**, with no obligation to do so, out of a genuine desire to contribute to the broader **renewable energy research community**.
 
 ## Contact
-For questions related to the paper or this model, please contact:
+For questions related to this model, please contact:
 **Shiye Wang** — National University of Singapore, shiye@nus.edu.sg
 
 ---
