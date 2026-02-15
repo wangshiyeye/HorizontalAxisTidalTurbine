@@ -11,7 +11,10 @@ The authors have chosen to release this model **voluntarily**, with no obligatio
 
 ## Contact
 For questions related to this model, please contact:
-**Shiye Wang** — National University of Singapore, shiye@nus.edu.sg
+
+**Shiye Wang** — Research Fellow, National University of Singapore, shiye@nus.edu.sg
+
+**Xudong Qian** — Associate Professor, National University of Singapore, qianxudong@nus.edu.sg
 
 ---
 
