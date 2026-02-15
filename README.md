@@ -7,10 +7,10 @@ If you use or reference this model in your work, please cite the following paper
 
 ## Transparency Statement
 This model is made publicly available in the interest of **research transparency and reproducibility**. Sharing the underlying CFD model alongside the published paper allows other researchers to inspect, validate, and build upon this work directly.
-The authors have chosen to release this model **voluntarily**, with no obligation to do so, out of a genuine desire to contribute to the broader **renewable energy research community**. It is our hope that open access to high-fidelity simulation models like this one helps reduce duplicated effort, lowers barriers to entry for tidal energy research, and accelerates progress toward sustainable energy solutions.
+The authors have chosen to release this model **voluntarily**, with no obligation to do so, out of a genuine desire to contribute to the broader **renewable energy research community**.
 
 ## Contact
-For questions related to the paper or this model, please contact the corresponding author:
+For questions related to the paper or this model, please contact:
 **Shiye Wang** — National University of Singapore, shiye@nus.edu.sg
 
 ---
