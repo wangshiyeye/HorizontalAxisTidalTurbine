@@ -1,5 +1,9 @@
 # HorizontalAxisTidalTurbine— CFD Model
-This repository contains the computational fluid dynamics (CFD) model developed and validated as part of the research paper listed below. The model simulates the unsteady hydrodynamic performance of a horizontal axis tidal turbine (HATT) under combined wave-current loading conditions, and was used alongside machine learning surrogate models (Gaussian Process Regression) and global sensitivity analysis (Sobol indices) to quantify the influence of key hydrodynamic parameters.
+CFD model download link: https://pan.baidu.com/s/1Z34rSxK-dEpFCMW7krzU2Q?pwd=q6sd
+Password: q6sd
+
+##
+The computational fluid dynamics (CFD) model developed and validated as part of the research paper listed below. The model simulates the unsteady hydrodynamic performance of a horizontal axis tidal turbine (HATT) under combined wave-current loading conditions, and was used alongside machine learning surrogate models (Gaussian Process Regression) and global sensitivity analysis (Sobol indices) to quantify the influence of key hydrodynamic parameters.
 
 ## Citation
 If you use or reference this model in your work, please cite the following paper:
